@@ -2,15 +2,16 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
-          "summary": "Sample Short Description",
+        "de-DE": {
+          "description": "Sample Full Description",
           "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
-            "help"
+            "Alexa öffne hallo welt",
+            "hallo",
+            "hilfe"
           ],
-          "name": "typescript_node_boilerplate",
-          "description": "Sample Full Description"
+          "keywords": [],
+          "name": "Mensa Leipzig",
+          "summary": "Sample Short Description"
         }
       },
       "isAvailableWorldwide": true,
